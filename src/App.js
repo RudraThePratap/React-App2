@@ -11,7 +11,6 @@ import {
   CyptoDetails,
 } from "./components";
 import "./App.css";
-import { Colors } from "chart.js";
 
 const App = () => {
   return (
